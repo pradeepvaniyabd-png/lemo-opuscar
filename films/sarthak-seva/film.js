@@ -531,7 +531,7 @@ function cta(ctx, t) {
     shape(ctx, ellipse(204, 1452, 46, 46, 30), { fill: P.ink, line: 0, seed: 987, off: [0, 0] });
     PR.phoneIcon(ctx, 204, 1452, 0.95, P.mustard);
     const R = REGTX; REGTX = R && kp >= 0.999;
-    say(ctx, 'phone', '90395 80560', 606, 1484, { font: '400 88px Title', fill: P.ink, align: 'center', plate: P.white, off: [4, 4] });
+    say(ctx, 'phone', '90394 80560', 606, 1484, { font: '400 88px Title', fill: P.ink, align: 'center', plate: P.white, off: [4, 4] });
     REGTX = R; ctx.restore();
   }
 }

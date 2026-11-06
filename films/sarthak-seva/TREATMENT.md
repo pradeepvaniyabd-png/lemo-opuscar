@@ -107,7 +107,7 @@ Camera moves: push, pull-back, pan with a finger, push-in to the shop, iris thro
 | 46.10–50.57 | VO "सार्थक ऑनलाइन सेवा केंद्र: आपकी सुविधा, हमारा विश्वास!"; kicker writes on 47.75 | theme cadence, soft |
 | 51.25–54.45 | VO "जनपद पंचायत बुधनी, मुख्य द्वार के पास।"; address tag pops 51.25 | music thins to vibes + bass |
 | 54.75 | phone plate stamps | stamp + vibes chord |
-| 55.10–59.03 | VO "90395 80560"; dead still from 55.0 | bass + vibes only |
+| 55.10–59.03 | VO "90394 80560"; dead still from 55.0 | bass + vibes only |
 | 58.75 | — | final Dmaj9, vibes tremolo, finger snap; rings out to 59.7 |
 
 ## 7. Cue map
