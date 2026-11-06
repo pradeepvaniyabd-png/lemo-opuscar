@@ -1,0 +1,126 @@
+{
+ "bpm": 120,
+ "beat": 0.5,
+ "t0": -0.25,
+ "duration": 59.7,
+ "silences": [
+  [
+   6.95,
+   7.75
+  ],
+  [
+   18.0,
+   18.25
+  ],
+  [
+   40.25,
+   40.75
+  ]
+ ],
+ "hits": [
+  {
+   "t": 0.75,
+   "label": "S1: passbook thump = low D"
+  },
+  {
+   "t": 7.75,
+   "label": "S2: the hand on the shoulder = Fmaj9"
+  },
+  {
+   "t": 11.75,
+   "label": "S2: snap on \"चलो\" (bar 7)"
+  },
+  {
+   "t": 12.25,
+   "label": "S3: the sign stamps = F6/9 hard"
+  },
+  {
+   "t": 17.75,
+   "label": "S4: service 1 = Fmaj9"
+  },
+  {
+   "t": 18.25,
+   "label": "S4: the thumb press (after the one-beat hush)"
+  },
+  {
+   "t": 21.75,
+   "label": "S4: service 2 = Dm9"
+  },
+  {
+   "t": 25.75,
+   "label": "S4: service 3 = Bbmaj9"
+  },
+  {
+   "t": 29.25,
+   "label": "S4: service 4 = C9sus"
+  },
+  {
+   "t": 32.75,
+   "label": "S4: service 5 = Am7"
+  },
+  {
+   "t": 36.75,
+   "label": "S5: relief = Bbmaj9 (deceptive)"
+  },
+  {
+   "t": 38.75,
+   "label": "S5: the blessing = Fmaj9 + glock"
+  },
+  {
+   "t": 40.75,
+   "label": "payoff: vibraphone glissando = first sound after the hush"
+  },
+  {
+   "t": 42.0,
+   "label": "payoff: path 1 straightens = D2"
+  },
+  {
+   "t": 42.25,
+   "label": "payoff: path 2 straightens = E2"
+  },
+  {
+   "t": 42.5,
+   "label": "payoff: path 3 straightens = F#2"
+  },
+  {
+   "t": 42.75,
+   "label": "payoff: path 4 straightens = G2"
+  },
+  {
+   "t": 43.0,
+   "label": "payoff: path 5 straightens = A2"
+  },
+  {
+   "t": 43.25,
+   "label": "payoff: path 6 straightens = B2"
+  },
+  {
+   "t": 43.5,
+   "label": "payoff: path 7 straightens = C#3"
+  },
+  {
+   "t": 43.75,
+   "label": "payoff: path 8 straightens = D3"
+  },
+  {
+   "t": 43.75,
+   "label": "payoff: sunburst = Dmaj9 + bell"
+  },
+  {
+   "t": 45.75,
+   "label": "CTA: the name stamps = Dmaj9 hard"
+  },
+  {
+   "t": 51.25,
+   "label": "CTA: address = Bm9"
+  },
+  {
+   "t": 54.75,
+   "label": "CTA: the number stamps = Dmaj9"
+  },
+  {
+   "t": 58.75,
+   "label": "end: Dmaj9 + snap"
+  }
+ ]
+}
