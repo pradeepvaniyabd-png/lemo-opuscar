@@ -1,0 +1,11 @@
+/* Devanagari + Latin families for the film (all OFL; licences in this folder).
+   Title  = Eczar ExtraBold (Devanagari, ₹) + Alfa Slab One (Latin, digits)   — slab titles and numerals
+   Kicker = Tillana ExtraBold (Devanagari, …) + Oleo Script Bold (Latin)     — the 1950s script kicker
+   Body   = Poppins 500/600 (Devanagari, ₹) + Jost (Latin)                   — captions, tags, labels */
+@font-face{font-family:'Title';src:url(Eczar-ExtraBold.ttf);unicode-range:U+0900-097F,U+1CD0-1CFF,U+200C-200D,U+20B9,U+25CC,U+A830-A839,U+A8E0-A8FF;}
+@font-face{font-family:'Title';src:url(AlfaSlabOne-Regular.ttf);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+20AC,U+2122,U+2212,U+FEFF,U+FFFD;}
+@font-face{font-family:'Kicker';src:url(Tillana-ExtraBold.ttf);unicode-range:U+0900-097F,U+1CD0-1CFF,U+200C-200D,U+20B9,U+25CC,U+A830-A839,U+A8E0-A8FF,U+2026;}
+@font-face{font-family:'Kicker';src:url(OleoScript-Bold.ttf);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-2025,U+2027-206F,U+20AC,U+2122,U+FEFF,U+FFFD;}
+@font-face{font-family:'Body';src:url(Poppins-Medium.ttf);font-weight:400 500;unicode-range:U+0900-097F,U+1CD0-1CFF,U+200C-200D,U+20B9,U+25CC,U+A830-A839,U+A8E0-A8FF;}
+@font-face{font-family:'Body';src:url(Poppins-SemiBold.ttf);font-weight:600 900;unicode-range:U+0900-097F,U+1CD0-1CFF,U+200C-200D,U+20B9,U+25CC,U+A830-A839,U+A8E0-A8FF;}
+@font-face{font-family:'Body';src:url(Jost-VF.ttf);font-weight:100 900;unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+20AC,U+2122,U+2212,U+FEFF,U+FFFD;}

@@ -1,0 +1,31 @@
+सार्थक ऑनलाइन सेवा केंद्र — promotional film (59.7 s, 1080×1920)
+Script, business name, address and phone number: the client (Sarthak Online Seva Kendra, Budni).
+Everything else is made in code for this film: characters, places, animation, music and sound effects.
+
+PICTURE
+  Style: "Mid-century Cartoon" from the Lemo-Opuscar style library (MIT). The drawing engine engine/toon.js is
+  copied from the style's demo (styles/midcentury-toon/demo/engine/toon.js) with two small additions.
+  Characters, props, places and the film code (engine/cast.js, engine/props.js, film.js) were written for this film.
+
+VOICE
+  Hindi narration and dialogue: Microsoft Edge neural voices hi-IN-SwaraNeural and hi-IN-MadhurNeural, through
+  edge-tts (github.com/rany2/edge-tts, LGPL-3.0). These are Microsoft's online voices: check Microsoft's terms before
+  using the film commercially, or replace the lines with a recording of your own (voice/lines.json lists them).
+  Speech check only (not in the film): faster-whisper with the Whisper large-v3-turbo model (MIT).
+
+MUSIC
+  Original score, written in code for this film (music/score.py).
+  Samples (all CC0 1.0): Versilian Community Sample Library and VS Chamber Orchestra: Community Edition
+  (Versilian Studios), Karoryfer Samples (jazz double bass), FreePats project (world percussion), played with the
+  library's core/audio/sampler.py.
+
+SOUND EFFECTS
+  Synthesised in code (mix.py, core/audio/sfx.py). No recorded sound effects.
+
+FONTS (SIL Open Font License 1.1; licence files in fonts/)
+  Eczar — Rosetta Type Foundry (Devanagari titles)
+  Alfa Slab One — JM Solé (Latin titles and numerals)
+  Tillana — Indian Type Foundry (Devanagari kicker)
+  Oleo Script — soytutype (Latin kicker)
+  Poppins — Indian Type Foundry (Devanagari captions and labels)
+  Jost — Owen Earl / indestructible type* (Latin captions and labels)
